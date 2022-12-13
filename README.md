@@ -1,7 +1,6 @@
 <h1  align="center">📌Banco De Dados Resilia Educação📌</h1>
 
-<img align="center" width= "120%" src="![Banco de dados-resilia](https://user-images.githubusercontent.com/112554325/207365706-df19c0a5-94f4-4856-98af-c6b11e63bee2.png)
-">
+<img align="center" width= "120%" src="https://github.com/bedibe/banco-de-dadosPI4/blob/main/Banco%20de%20dados-resilia.png?raw=true">
 
 <br>
 
