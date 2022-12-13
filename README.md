@@ -1,10 +1,10 @@
-<h1  align="center">📌Banco De Dados Resilia Educação📌</h1>
+<h1  align="center">🏦Banco De Dados Resilia Educação🏦</h1>
 
 <img align="center" width= "120%" src="https://github.com/bedibe/banco-de-dadosPI4/blob/main/Banco%20de%20dados-resilia.png?raw=true">
 
 <br>
 
-<b>Desafio:</b>
+<b>Proposta:</b>
 
 <br>
 
@@ -60,5 +60,5 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 
 <br>
 
-> mySQL
-
+> MySQL Workbench
+> Xampp
