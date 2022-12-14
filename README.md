@@ -4,7 +4,7 @@
 
 <br><hr>
 
-<b>Proposta:</b>
+<b>🏦Proposta🏦:</b>
 
 <br>
 
@@ -18,7 +18,7 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 
 <br><hr>
 
-<b>Perguntas</b>
+<b>🏦Perguntas🏦</b>
 
 <br>
 
@@ -30,7 +30,7 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 
 <br><hr>
 
-<b>Respostas</b>
+<b>🏦Respostas🏦</b>
 
 <br>
 
@@ -44,7 +44,7 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 
 <br><hr>
 
-<b>Conhecimentos Adquiridos</b>
+<b>🏦Conhecimentos Adquiridos🏦</b>
 
 <br>
 
@@ -56,7 +56,7 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 
 <br> <hr>
 
-<b>Ferramentas utilizadas</b>
+<b>🏦Ferramentas utilizadas🏦</b>
 
 <br>
 
