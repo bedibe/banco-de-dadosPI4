@@ -46,7 +46,7 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 
 <b>Conhecimentos Adquiridos</b>
 
-<br><hr>
+<br>
 
 > Criação de Bancos De Dados
 <br></br>
