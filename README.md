@@ -38,7 +38,7 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 <br></br>
 > + Alunos, turma, cursos, facilitador, sede, matrícula, modulos, forma de pagamento. Varchat, text, int, tityint, Date
 <br></br>
-> + Muitos para muitos(N:N) e um para muitos(1:N)
+> + Muitos para muitos(N:N), um para muitos(1:N) e um pra um(1:1)
 
 
 
