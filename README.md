@@ -1,4 +1,4 @@
-<h1  align="center">🏦Banco De Dados Resilia Educação🏦</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5017&pause=1000&color=3C433D&center=verdadeiro&vCenter=&width=435&lines=%F0%9F%8F%A6Banco+De+Dados+Resilia+Educa%C3%A7%C3%A3o%F0%9F%8F%A6)](https://git.io/typing-svg)
 
 <img align="center" width= "120%" src="https://github.com/bedibe/banco-de-dadosPI4/blob/main/Banco%20de%20dados-resilia.png?raw=true">
 
