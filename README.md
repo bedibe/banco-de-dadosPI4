@@ -2,7 +2,7 @@
 
 <img align="center" width= "120%" src="https://github.com/bedibe/banco-de-dadosPI4/blob/main/Banco%20de%20dados-resilia.png?raw=true">
 
-<br>
+<br><hr>
 
 <b>Proposta:</b>
 
@@ -16,7 +16,7 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 
 > Com a criação de uma Query, responderemos as perguntas a seguir
 
-<br>
+<br><hr>
 
 <b>Perguntas</b>
 
@@ -28,25 +28,25 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 <br></br>
 > + Como essas entidades estão relacionadas?
 
-<br>
+<br><hr>
 
 <b>Respostas</b>
 
 <br>
 
-> + Sim, as entidades variam de acordo com a escolha do cliente
+> + Sim, as entidades tem variações de acordo com a necessidade do cliente.
 <br></br>
-> + alunos, turma, cursos, disciplina, professores. Varchat, text, int, tityint
+> + Alunos, turma, cursos, disciplina, professores. Varchat, text, int, tityint
 <br></br>
 > + Muitos para muitos(N:N) e um para muitos(1:N)
 
 
 
-<br>
+<br><hr>
 
 <b>Conhecimentos Adquiridos</b>
 
-<br>
+<br><hr>
 
 > Criação de Bancos De Dados
 <br></br>
@@ -54,11 +54,12 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 <br></br>
 > Consultas e Queries no banco de dados
 
-<br>
+<br> <hr>
 
 <b>Ferramentas utilizadas</b>
 
 <br>
 
 > MySQL Workbench
+<br> <hr>
 > Xampp
