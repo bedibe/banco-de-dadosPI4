@@ -36,7 +36,7 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 
 > + Sim, as entidades tem variações de acordo com a necessidade do cliente.
 <br></br>
-> + Alunos, turma, cursos, disciplina, professores. Varchat, text, int, tityint
+> + Alunos, turma, cursos, facilitador, sede, matrícula, modulos, forma de pagamento. Varchat, text, int, tityint, Date
 <br></br>
 > + Muitos para muitos(N:N) e um para muitos(1:N)
 
